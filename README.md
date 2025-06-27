@@ -2,7 +2,7 @@
 
 Created a SQL table using fictional data.
 
-This roject included performing the following SQL tasks:
+This project included performing the following SQL tasks:
 - Creating a table with three columns
 - Inserting records into the table with 'INSERT INTO'
 - Altering records in the table with UPDATE statements
